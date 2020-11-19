@@ -14,6 +14,6 @@ No meu caso eu inseri o arquivo em /Colab/Material.zip, caso insira em uma pasta
  
 ## Screenshots
 
-![alt text](https://github.com/thelesson/deteccao-de-emocoes-na-webcam-tensorflow/blob/main/webcam1.png?raw=true)
+![alt text](https://github.com/thelesson/deteccao-de-emocoes-na-webcam-tensorflow/blob/main/web3.png?raw=true)
 
-![alt text](https://github.com/thelesson/deteccao-de-emocoes-na-webcam-tensorflow/blob/main/webcam2.png?raw=true)
+![alt text](https://github.com/thelesson/deteccao-de-emocoes-na-webcam-tensorflow/blob/main/web4.png?raw=true)
