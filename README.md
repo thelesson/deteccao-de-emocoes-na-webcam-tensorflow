@@ -9,6 +9,9 @@ Após importe para o seu Google Drive, caso deseja utilizar no Colab.
 Fica mais rápido o upload pro Colab quando o arquivo já está hospedado no Gdrive.
 No meu caso eu inseri o arquivo em /Colab/Material.zip, caso insira em uma pasta diferente, lembre-se de alterar o caminho no código também.
 
+ ## Colab
+ Link para o Colab: https://colab.research.google.com/drive/1OllFgidaX-S1n-J1mUNUWuT41-mC5ymv?usp=sharing
+ 
 ## Screenshots
 
 ![alt text](https://github.com/thelesson/deteccao-de-emocoes-na-webcam-tensorflow/blob/main/webcam1.png?raw=true)
